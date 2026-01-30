@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jkh79
 - 👀 I’m interested in computational linguistics!
-- 🌱 I’m currently learning annotation with Eclipse
+- 🌱 I’m currently trying to learn SQL!
 - 💞️ I’m looking to collaborate on nothing at this moment, but that doesn't mean I'd say no to a collaboration!
 - 📫 How to reach me: jkh79@pitt.edu
 - 😄 Pronouns: they/them or neos like ve/vim, ey/em
